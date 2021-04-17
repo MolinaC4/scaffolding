@@ -198,7 +198,24 @@ header{
     background-color: #F5F5F5;
 
     img{
-        margin-left: -44%;
+        margin-top: -22%;
+        padding: 6%;
+        margin-left: -45%;
+    }
+}
+
+footer{
+    position: absolute;
+    width: 100%;
+    background: #364F6B;
+    height: 200px;
+    margin-top: -5%;
+
+    h3{
+        font-family: "Poppins-Medium";
+        color: #F5F5F5;
+        padding: 4%;
+        font-size: 22px; 
     }
 }
 
